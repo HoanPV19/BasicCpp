@@ -1,0 +1,8 @@
+void cmp(const void *a, const void *b)
+{
+    char *x=(char*)a;
+    char *y=(char*)b;
+    return strcmp(x,y);
+}
+
+qsort(a, n, sizeof(a[0]), cmp);
