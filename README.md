@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hoanpv19/hoanpv19/output/snake.svg" alt="Snake animation" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q1dnJpaGR2aGs1aDdwenczNG9sM3p1ZnVsejlydmhndHRqaHNuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrLmVMZR8sXUdn9k3r/giphy.webp" />
 
 ###
